@@ -2,7 +2,7 @@ function square(a, b) {
     return a * b;
 }
 
-let multiplied = function(a, b) {
+let multiplied = function square(a, b) {
     return a * b;
 }
 
